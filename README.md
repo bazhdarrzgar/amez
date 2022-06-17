@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-<h3 align="center">سڵاو 👋, من نەشوان عبدللە</h1>
+<h3 align="center">سڵاو 👋, من ئامێزم </h1>
 <h3 align="center" dir="rtl">Full Stack Developer  😜</h3>
 
 <h5 align="right"><b>من لە <a href="https://www.youtube.com/channel/UC8ONVBYOtOlWTpp0p-urNoA">یوتوب</a> فێرکارییەکانم دادەنێم 🎬</b></h3>
